@@ -5,6 +5,8 @@
 
 # Ürün İle İlgili Bilgiler
 
+
+
 ## Takım Elemanları
 
 - S. Ceren GÜLMEZ: Product Owner
