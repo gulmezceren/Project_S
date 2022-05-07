@@ -44,7 +44,7 @@ Psikolojik desteğe ihtiyacı olan kadınlar.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**:
+- **Puan tamamlama mantığı**: Scrum To Do Task'ler başına puanlama.
 
 - **Backlog düzeni ve Story seçimleri**: 
 
@@ -53,10 +53,11 @@ Psikolojik desteğe ihtiyacı olan kadınlar.
 - **Sprint board update**: Screenshot
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: Ekran görüntüleri: https://www.figma.com/file/2KSWITPwE54uFjEJHlgBUh/Untitled?node-id=0%3A1
+- https://www.figma.com/file/ExirAXqn5gaClDzDFr7hZm/Untitled
 
 
-- **Sprint Review**: 
+- **Sprint Review**:
 
 - **Sprint Retrospective:**
    
