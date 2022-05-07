@@ -5,7 +5,7 @@
 
 # Ürün İle İlgili Bilgiler
 Yalnız Değilsin mobil uygulaması üzerinden psikolojik desteğe ihtiyacı olan kadınlar, gönüllülük esasına dayalı ön bilgi paylaşımından sonra, ruh sağlığı alanında
-çalışan gönüllü yetkin kişilerden seans alma imkanı bulur.
+çalışan gönüllü yetkin kişilerden destek alma imkanı bulur.
 
 
 ## Takım Elemanları
