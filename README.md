@@ -33,6 +33,8 @@ Psikolojik desteğe ihtiyacı olan kadınlar.
 
 
 ## Product Backlog URL
+Burndown Chart : https://miro.com/app/board/uXjVO3LFFQE=/?share_link_id=75522163099
+
 
 
 
@@ -50,16 +52,16 @@ Psikolojik desteğe ihtiyacı olan kadınlar.
 
 - **Daily Scrum**: 
 
-- **Sprint board update**: Screenshot
+- **Sprint board update**: https://miro.com/app/board/uXjVO3Kyfz0=/?share_link_id=766233292556
 
 
 - **Ürün Durumu**: Ekran görüntüleri: https://www.figma.com/file/2KSWITPwE54uFjEJHlgBUh/Untitled?node-id=0%3A1
 - https://www.figma.com/file/ExirAXqn5gaClDzDFr7hZm/Untitled
 
 
-- **Sprint Review**:
+- **Sprint Review**: Eklenecek. 
 
-- **Sprint Retrospective:**
+- **Sprint Retrospective:** Eklenecek. 
    
 
 -**Diğer Notlar**:
