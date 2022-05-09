@@ -59,9 +59,16 @@ Burndown Chart : https://miro.com/app/board/uXjVO3LFFQE=/?share_link_id=75522163
 - https://www.figma.com/file/ExirAXqn5gaClDzDFr7hZm/Untitled
 
 
-- **Sprint Review**: Eklenecek. 
+- **Sprint Review**: Fikirlerin ortak paydada buluştuğu projede karar kılındı. Takım ve proje için uygun olabilecek isimler arandı ve netleştirildi. Sabit buluşma günleri belirlendi. Puanlamalar ve kanban tablosu oluşturuldu. Tasarım için kullanılabilecek uygulamalar araştırıldı, figma ve flutterflow kullanıldı. Tasarım için kullanıcıların dikkatini çekecek birkaç farklı örnek oluşturuldu ancak henüz netleştirilmedi.  Açılış ekranı üzerine tartışıldı, genel uygulama düzeni ve fonksiyonu gözden geçirildi. UI üzerine konuşuldu. Firebase kurulumunun uygulama sonrasında gerçekleşmesi üzerine karar kılındı. Daily scrumda görev dağılımı kabataslak olarak hazırlandı. 
 
-- **Sprint Retrospective:** Eklenecek. 
+- **Sprint Retrospective:** 
+
+İlk tasarım için Figma kullanıldı ancak istenilen verim alınamadı. Flutterflow kullanımının gelişime daha açık ve daha pratik olduğuna karar kılındı. 
+Toplantı zamanları konusunda esnek davranıldı, fakat verimlilik azaldı. Bu nedenle tekrar değerlendirilecek. 
+Projede gerçekten desteğe ihtiyacı olan insanlara ulaşmak hedefleniyor ancak uygulamanın suistimal edilme ihtimali engellenmeli diye düşünüldü. Bunun için kullanıcıların ilk seanslardan sonra puanlanması durumu bir alternatif olarak sunuldu ancak geliştirilmeye ve yeni önerilere açık bir konu olarak bırakıldı. 
+
+
+
    
 
 -**Diğer Notlar**:
