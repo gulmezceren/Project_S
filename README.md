@@ -4,7 +4,7 @@
 
 
 # Ürün İle İlgili Bilgiler
-Yalnız Değilsin mobil uygulaması üzerinden psikolojik desteğe ihtiyacı olan kadınlar, gönüllülük esasına dayalı ön bilgi paylaşımından sonra, ruh sağlığı alanında
+WoPsyc mobil uygulaması üzerinden psikolojik desteğe ihtiyacı olan kadınlar, gönüllülük esasına dayalı ön bilgi paylaşımından sonra, ruh sağlığı alanında
 çalışan gönüllü yetkin kişilerden destek alma imkanı bulur.
 
 
@@ -16,7 +16,7 @@ Yalnız Değilsin mobil uygulaması üzerinden psikolojik desteğe ihtiyacı ola
 - Özlem Yasemin ÖZÇELİK: Team Member/Developer
 
 ## Ürün İsmi
-**Yalnız Değilsin**
+**WoPsyc**
 
 
 ## Ürün Açıklaması
