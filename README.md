@@ -12,7 +12,6 @@ WoPsyc mobil uygulaması üzerinden psikolojik desteğe ihtiyacı olan kadınlar
 
 - S. Ceren GÜLMEZ: Product Owner
 - Atalay ZİŞTOVİLİ: Scrum Master
-- Furkan DOĞAN: Team Member/Developer
 - Özlem Yasemin ÖZÇELİK: Team Member/Developer
 
 ## Ürün İsmi
