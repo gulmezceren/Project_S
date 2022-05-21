@@ -77,6 +77,29 @@ Projede gerçekten desteğe ihtiyacı olan insanlara ulaşmak hedefleniyor ancak
 
 # Sprint 2
 
+Sprint Notları:
+
+Sprint içinde tamamlanması tahmin edilen puan: 
+
+Puan tamamlama mantığı: Scrum To Do Task'ler başına puanlama.
+
+Backlog düzeni ve Story seçimleri:
+
+Daily Scrum:
+
+Sprint board update: 
+
+Ürün Durumu: Ekran görüntüleri: 
+
+
+
+Sprint Review: 
+
+Sprint Retrospective:
+
+
+-Diğer Notlar:
+
 
 ---
 
