@@ -41,8 +41,6 @@ Burndown Chart : https://miro.com/app/board/uXjVO3LFFQE=/?share_link_id=75522163
 
 # Sprint 1
 
-- **Sprint Notları**: 
-
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Scrum To Do Task'ler başına puanlama.
