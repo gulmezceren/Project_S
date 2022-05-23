@@ -79,7 +79,8 @@ Projede gerçekten desteğe ihtiyacı olan insanlara ulaşmak hedefleniyor ancak
 **Backlog düzeni ve Story seçimleri**: 
   
 
-**Daily Scrum**:
+**Daily Scrum**:[WhatsApp Image 2022-05-23 at 22 59 17 (1)](https://user-images.githubusercontent.com/104401492/169896815-e3ba8e9f-ee17-4171-bbbd-b82464315320.jpeg)
+
 
 
 **Sprint board update**: 
