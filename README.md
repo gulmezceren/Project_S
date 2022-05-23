@@ -81,7 +81,7 @@ Projede gerçekten desteğe ihtiyacı olan insanlara ulaşmak hedefleniyor ancak
 **Sprint board update**: 
 https://miro.com/app/board/uXjVO3Kyfz0=/
 
-** Backlog Burndown Chart**
+**Backlog - Burndown Chart**
 https://miro.com/app/board/uXjVO3LFFQE=/
 
 **Ürün Durumu**:
