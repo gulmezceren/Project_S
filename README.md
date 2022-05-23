@@ -84,7 +84,7 @@ Projede gerçekten desteğe ihtiyacı olan insanlara ulaşmak hedefleniyor ancak
 **Sprint board update**: 
 
 **Ürün Durumu**:
-Ekran görüntüleri: 
+Ekran görüntüleri: https://app.flutterflow.io/project/wopsyc-dhu287
 
 
 
