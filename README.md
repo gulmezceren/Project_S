@@ -48,6 +48,7 @@ Burndown Chart : https://miro.com/app/board/uXjVO3LFFQE=/?share_link_id=75522163
 - **Puan tamamlama mantığı**: Scrum To Do Task'ler başına puanlama.
 
 - **Backlog düzeni ve Story seçimleri**: 
+  
 
 - **Daily Scrum**: 
 
@@ -77,25 +78,33 @@ Projede gerçekten desteğe ihtiyacı olan insanlara ulaşmak hedefleniyor ancak
 
 # Sprint 2
 
-Sprint Notları:
+**Sprint Notları**:
 
-Sprint içinde tamamlanması tahmin edilen puan: 
+**Sprint içinde tamamlanması tahmin edilen puan**: 100 puan
 
-Puan tamamlama mantığı: Scrum To Do Task'ler başına puanlama.
+**Puan tamamlama mantığı**: Scrum To Do Task'ler başına puanlama.
 
-Backlog düzeni ve Story seçimleri:
+**Backlog düzeni ve Story seçimleri**:
+  
 
-Daily Scrum:
+**Daily Scrum**:
 
-Sprint board update: 
+**Sprint board update**: 
 
-Ürün Durumu: Ekran görüntüleri: 
+**Ürün Durumu**:
+Ekran görüntüleri: 
 
 
 
-Sprint Review: 
+**Sprint Review**:
 
-Sprint Retrospective:
+Puanlamalar ve kanban tablosu oluşturuldu. Flutterflow'daki birkaç tasarım ortak fikirlerle revize edildi ve bir tanesi uygun bulundu. Firebase üzerinde duruldu, kurulumu yapıldı ve authentication kısmında sign-in method belirtlendi. İçerik olarak e-mail/password yeterli görüldü. Kullanıcı bilgilerinin depolanması adına storage kısmı aktive edildi. Flutterflow ile firebase bağlandı. Andorid Studio'da sorun yaşamamak adına her grup üyesi kurulumu güncelledi. Kodlama sürecine geçiş yapıldı. API kullanılmamasına karar verildi. 
+
+**Sprint Retrospective**:
+
+Gruptan bir üyenin akademiyi bırakmasıyla beraber süreç yavaşladı. Diğer takımlara göre daha az kişi olunduğu ve projeyi yetiştirme hususunda zorlanıldı. Bu durumu çözümleyebilmek için birkaç ekstra puan getirecek özellik çıkarıldı ve kullanılmamasına karar verildi. 
+Kodlamaya yeni geçiş yapıldı ve hızlanma kararı alındı.
+Grup toplantıları noktasında zaman uyumsuzlukları yaşandı, bu nedenle iş bölümü halinde ilerleme kararı alındı. 
 
 
 -Diğer Notlar:
