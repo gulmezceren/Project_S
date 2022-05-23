@@ -46,14 +46,8 @@ Burndown Chart : https://miro.com/app/board/uXjVO3LFFQE=/?share_link_id=75522163
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Scrum To Do Task'ler başına puanlama.
-
-- **Backlog düzeni ve Story seçimleri**: 
   
-
-- **Daily Scrum**: 
-
 - **Sprint board update**: https://miro.com/app/board/uXjVO3Kyfz0=/?share_link_id=766233292556
-
 
 - **Ürün Durumu**: Ekran görüntüleri: https://www.figma.com/file/2KSWITPwE54uFjEJHlgBUh/Untitled?node-id=0%3A1
 - https://www.figma.com/file/ExirAXqn5gaClDzDFr7hZm/Untitled
@@ -71,23 +65,22 @@ Projede gerçekten desteğe ihtiyacı olan insanlara ulaşmak hedefleniyor ancak
 
    
 
--**Diğer Notlar**:
-
 
 ---
 
 # Sprint 2
 
-**Sprint Notları**:
+**Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-**Sprint içinde tamamlanması tahmin edilen puan**: 100 puan
+**Sprint içinde tamamlanması tahmin edilen puan**: 60 puan
 
 **Puan tamamlama mantığı**: Scrum To Do Task'ler başına puanlama.
 
-**Backlog düzeni ve Story seçimleri**:
+**Backlog düzeni ve Story seçimleri**: 
   
 
 **Daily Scrum**:
+
 
 **Sprint board update**: 
 
@@ -107,7 +100,6 @@ Kodlamaya yeni geçiş yapıldı ve hızlanma kararı alındı.
 Grup toplantıları noktasında zaman uyumsuzlukları yaşandı, bu nedenle iş bölümü halinde ilerleme kararı alındı. 
 
 
--Diğer Notlar:
 
 
 ---
