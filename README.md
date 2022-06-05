@@ -106,4 +106,24 @@ Grup toplantıları noktasında zaman uyumsuzlukları yaşandı, bu nedenle iş 
 
 # Sprint 3
 
+**Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+**Sprint içinde tamamlanması tahmin edilen puan**: 50 puan
+
+**Puan tamamlama mantığı**: Scrum To Do Task'ler başına puanlama. 
+
+**Daily Scrum**: Bir önceki sprintte ekran görüntülerinden görüldüğü üzere, günlük raporlar mesaj yolu ile verilerek iletişime geçildi.
+[WhatsApp Image 2022-05-23 at 22 59 17 (1)](https://user-images.githubusercontent.com/104401492/169896815-e3ba8e9f-ee17-4171-bbbd-b82464315320.jpeg)
+
+**Sprint board update**: 
+
+**Backlog - Burndown Chart**:
+
+**Backlog Düzeni**: Proje değiştirme zorunluluğu üzerine verilen puanlar temel fonksiyonlar üzerine yoğunlaştırımıştır.
+
+**Sprint Review**:
+Kanban tablosu üzerinden Task’ler düzenlendi, burndown chart ile takip sağlandı, bu takip ile birincil projeyi sonladırıp, ikincil proje ile devam etme kararı verildi. İkincil projede alınan 2 büyük hata üzerine çalışıldı ve çözüldü. Nihai teslim haline getirilerek sonlandırıldı. Ürün teslim formu ve videoları hazırlanmak üzere son toplantı belirlendi.
+
+**Sprint Retrospective**:
+Bir ekip üyesinin bir önceki sprintte ayrılması ile birincil projeye son verildi bu sebeple ikincil proje için daha dikkatli ve sık ilerme kararı alındı, puanlar bu sebeple kritik task’lere öncelik verilerek dağıtıldı ve tasarım aşamaları yavaşlatıldı, çalışma süreleri ve toplantılar artırıldı. Bu yol ile ikinicil proje beklendiği gibi ilerledi ve son halini aldı.
 ---
