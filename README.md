@@ -117,7 +117,9 @@ Grup toplantıları noktasında zaman uyumsuzlukları yaşandı, bu nedenle iş 
 
 **Sprint board update**: 
 
-**Backlog - Burndown Chart**:
+**Backlog - Burndown Chart**: 
+
+https://miro.com/app/board/uXjVO3LFFQE=/
 
 **Backlog Düzeni**: Proje değiştirme zorunluluğu üzerine verilen puanlar temel fonksiyonlar üzerine yoğunlaştırımıştır.
 
