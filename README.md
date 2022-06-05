@@ -117,6 +117,8 @@ Grup toplantıları noktasında zaman uyumsuzlukları yaşandı, bu nedenle iş 
 
 **Sprint board update**: 
 
+https://miro.com/app/board/uXjVO3Kyfz0=/
+
 **Backlog - Burndown Chart**: 
 
 https://miro.com/app/board/uXjVO3LFFQE=/
