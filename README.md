@@ -10,9 +10,9 @@ WoPsyc mobil uygulaması üzerinden psikolojik desteğe ihtiyacı olan kadınlar
 
 ## Takım Elemanları
 
-- S. Ceren GÜLMEZ: Product Owner
-- Atalay ZİŞTOVİLİ: Scrum Master
-- Özlem Yasemin ÖZÇELİK: Team Member/Developer
+- S. Ceren Gülmez: Product Owner
+- Atalay Ziştovili: Scrum Master
+- Özlem Yasemin Özçelik: Team Member/Developer
 
 ## Ürün İsmi
 **WoPsyc**
